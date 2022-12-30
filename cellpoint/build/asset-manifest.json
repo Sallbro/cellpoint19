@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f3a4141.chunk.css",
+    "main.js": "/static/js/main.6455f783.chunk.js",
+    "main.js.map": "/static/js/main.6455f783.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b8e2072c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b8e2072c.js.map",
+    "static/css/2.983f79de.chunk.css": "/static/css/2.983f79de.chunk.css",
+    "static/js/2.bc2d4e85.chunk.js": "/static/js/2.bc2d4e85.chunk.js",
+    "static/js/2.bc2d4e85.chunk.js.map": "/static/js/2.bc2d4e85.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.1f3a4141.chunk.css.map": "/static/css/main.1f3a4141.chunk.css.map",
+    "static/js/2.bc2d4e85.chunk.js.LICENSE.txt": "/static/js/2.bc2d4e85.chunk.js.LICENSE.txt",
+    "static/media/material-design-iconic-font.min.css": "/static/media/Material-Design-Iconic-Font.bd9b02bf.woff",
+    "static/media/payment_ani.8ed7e15c.gif": "/static/media/payment_ani.8ed7e15c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8e2072c.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.bc2d4e85.chunk.js",
+    "static/css/main.1f3a4141.chunk.css",
+    "static/js/main.6455f783.chunk.js"
+  ]
+}
