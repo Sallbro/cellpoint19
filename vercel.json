@@ -1,14 +1,20 @@
 {
+    "version": 2,
     "builds": [
         {
-            "src": "./app.js",
+            "src": "./app.js", 
             "use": "@vercel/node"
+        },
+        {
+            "src": "./cellpoint/build", 
+            "use": "@vercel/static"
         }
     ],
-    "routes": [
+    
+    "rewrites": [
         {
-            "src": "/.*",
-            "dest": "app.js"
+            "source": "/(.*)",
+            "destination": "/app.js"
         }
     ]
 }
