@@ -9,6 +9,7 @@ const rout = app.use(require('./routers/routs'));
 
 // vercel
 if (process.env.NODE_ENV == 'production') {
+    const path=require('path');
     app.use(express.static(path.resolve(__dirname, './cellpoint', 'build')));
     app.get('/*', (req, res) => {
         res.sendFile(path.resolve(__dirname, './cellpoint', 'build', 'index.html'));
